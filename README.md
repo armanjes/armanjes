@@ -1,7 +1,8 @@
+![logo](https://s4.ezgif.com/tmp/ezgif-4-b144e0043b.gif)
 <h1 align="center">Hi 👋, I'm Arman</h1>
 <h3 align="center">"Exploring the realms of full-stack (MERN) and cross-platform app development! 🌐📱"</h3>
 
-<img src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" alt="coding" align="right" width="400"> 
+<img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="coding" align="right" width="400"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armanjes&label=Profile%20views&color=0e75b6&style=flat"
         alt="armanjes" /> </p>
