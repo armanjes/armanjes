@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN & cross platform app development**
 
-- 💬 Ask me about **Programming language, MERN & app development**
+- 💬 Ask me about **Programming languages, MERN & app development**
 
 - 📫 How to reach me **mdarmanjes@gmail.com**
 
