@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arman</h1>
 <h3 align="center">"Exploring the realms of full-stack (MERN) and cross-platform app development! 🌐📱"</h3>
 
-<img src="[https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif](https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif)" alt="coding" align="right" width="400"> 
+<img src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" alt="coding" align="right" width="400"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armanjes&label=Profile%20views&color=0e75b6&style=flat"
         alt="armanjes" /> </p>
