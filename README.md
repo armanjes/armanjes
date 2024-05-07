@@ -1,4 +1,4 @@
-![logo](https://s4.ezgif.com/tmp/ezgif-4-b144e0043b.gif)
+
 <h1 align="center">Hi 👋, I'm Arman</h1>
 <h3 align="center">"Exploring the realms of full-stack (MERN) and cross-platform app development! 🌐📱"</h3>
 
