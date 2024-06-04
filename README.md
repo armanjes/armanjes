@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Arman</h1>
 <h3 align="center">"Exploring the realms of full-stack (MERN) and cross-platform app development! 🌐📱"</h3>
-
-//<img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="coding" align="right" width="400"> 
+ 
 <img src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" alt="coding" align="right" width="400"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armanjes&label=Profile%20views&color=0e75b6&style=flat"
