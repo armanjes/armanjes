@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Arman</h1>
-<h3 align="center">"Exploring the realms of full-stack (MERN) and cross-platform app development! 🌐📱"</h3>
+<h3 align="center">"Exploring the realms of MERN and cross-platform app development! 🌐📱"</h3>
  
 <img src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" alt="coding" align="right" width="400"> 
 
